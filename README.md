@@ -13,7 +13,7 @@ This web application allows users to search for weather information by city name
 ## Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Aniraai/Weather-App.git
    cd weather-app
    npm install
    npm run dev
